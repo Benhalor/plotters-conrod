@@ -16,7 +16,7 @@ authors = ["Valerian Saliou <valerian@valeriansaliou.name>"]
 plotters-backend = "0.3"
 num-traits = "0.2"
 conrod_core = "^0.70"
-libc = "0.1"
+libc = "0.2"
 
 [build-dependencies]
 cc = "1.0"
